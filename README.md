@@ -3,7 +3,7 @@
 Simple Todo app in which you can add, edit and delete your todos.
 
 Tools used: React, contextApi, TailwindCSS  
-Demo :
+Demo : https://todosbylalit.netlify.app/
 
 # React + Vite
 
